@@ -2,9 +2,6 @@ body {
 	background-color: black;
 	font-family: arial, helvetica, sans-serif;
 }
-h1 {
-	color: gold;
-}
-p{
+h1, p {
 	color: green;
 }
